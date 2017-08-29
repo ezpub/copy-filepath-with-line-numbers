@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Copy filepath with line numbers (relative path)",
+        "command": "copy-filepath-with-line-numbers:relative"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Copy Filepath with Line Numbers",
+          "submenu": [
+            {
+              "label": "Copy filepath with line numbers (relative path)",
+              "command": "copy-filepath-with-line-numbers:relative"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
