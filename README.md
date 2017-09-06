@@ -21,3 +21,6 @@ When you trigger this package, the file path and all line numbers will be copied
 2. Press default shortcut key: `ctrl-l`. If you want to use your custom shortcut, bind your shortcut to this command `copy-filepath-with-line-numbers:relative` under `atom-workspace`
 3. Open command palette`cmd-shift-p`(MacOS) or `ctrl-shift-p`(Windows, Linux), then type `pathline` or similiar
 4. Click `Package` on top Menubar, then choose `Copy Filepath with Line Numbers`
+
+# Bug report
+If you've found any bugs, please report, thanks!
