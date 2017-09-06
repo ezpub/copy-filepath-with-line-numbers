@@ -1,7 +1,7 @@
 {
   "name": "copy-filepath-with-line-numbers",
   "main": "./lib/copy-filepath-with-line-numbers",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "This is a small package that can copy the current file path(relative) and line number(s) to clipboard for later use",
   "keywords": [
     "copy",
